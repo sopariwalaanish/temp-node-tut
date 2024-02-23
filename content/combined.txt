@@ -1,0 +1,5 @@
+Here i sthe result: First text file!!
+
+Second text file!!Here is the result: First text file!!
+
+Second text file!!
